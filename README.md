@@ -64,7 +64,7 @@ npm run dev
 
 ## Screenshots
 
-![Input Form](https://github.com/yourusername/travelplan-ai/raw/main/screenshots/input_form.png)
-![Console](https://github.com/yourusername/travelplan-ai/raw/main/screenshots/console.png)
+![Input Form](https://github.com/Andyok45/AI_TripPlanner/tree/main/ai-travel-planner/raw/main/screenshots/input_form.png)
+![Console](https://github.com/Andyok45/AI_TripPlanner/tree/main/ai-travel-planner/raw/main/screenshots/console.png)
 
 
